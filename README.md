@@ -13,5 +13,5 @@
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007A00&height=120&section=footer" style="transform: rotate(180deg);">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007A00&height=120&section=footer"/>
 
